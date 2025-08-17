@@ -1,5 +1,5 @@
 
-"""COUNT EVEN AND ODD DIGITS IN A GIVEN STRING"""
+#COUNT EVEN AND ODD DIGITS IN A GIVEN STRING
 def even_odd(n):
      even_num = 0
      odd_num = 0
